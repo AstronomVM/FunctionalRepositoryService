@@ -1,9 +1,0 @@
-com/astronomvm/functional_repository/transformer/FunctionalAttributeTransformer.class
-com/astronomvm/functional_repository/persistence/entity/FunctionalAttributeEntity.class
-com/astronomvm/functional_repository/rest/FunctionalModelController.class
-com/astronomvm/functional_repository/FunctionalRepositoryApplication.class
-com/astronomvm/functional_repository/persistence/repository/IFunctionalModelRepository.class
-com/astronomvm/functional_repository/persistence/entity/FunctionalModelEntity.class
-com/astronomvm/functional_repository/exception/FunctionalModelNotFoundException.class
-com/astronomvm/functional_repository/service/FunctionalModelService.class
-com/astronomvm/functional_repository/transformer/FunctionalModelTransformer.class
